@@ -1,1 +1,3 @@
 # gen-art
+
+Some examples of generative art techniques...
