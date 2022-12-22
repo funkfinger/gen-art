@@ -1,0 +1,11 @@
+body {
+  background-color: lightslategray;
+}
+
+canvas {
+  display: flex;
+  align-items: center;
+  background-color: darkslategray;
+  /* border: 3px solid darkslategrey; */
+  margin: 0 auto;
+}
